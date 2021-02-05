@@ -1,2 +1,0 @@
-# photo-display
-# photo-display
